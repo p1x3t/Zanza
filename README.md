@@ -1,4 +1,12 @@
-# Zanza 💅
+<img width="300" height="150" alt="1776984477" src="https://github.com/user-attachments/assets/a3f30668-1350-4c9d-905b-745f2a0fa225" />
+
+# FRONTEND
+
+<img width="300" height="100" alt="hjc-removebg-preview" src="https://github.com/user-attachments/assets/c0971196-53cc-45e0-8481-473f9b1e4bf8" />
+
+# BACKEND
+
+---
 
 > Plataforma de estética e agendamento de serviços de beleza
 
