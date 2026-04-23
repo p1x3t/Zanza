@@ -219,7 +219,7 @@ localStorage.getItem('perfilZanza')
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ```
-MIT License
+MIT / BSD License
 
 Copyright (c) 2030 Zanza
 
