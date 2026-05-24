@@ -2,7 +2,9 @@
 
 # FRONTEND
 
-![Zanza website - Clique para acessar](https://zanzaofficial.netlify.app)
+## Acesse a plataforma
+
+🔗 https://zanzaofficial.netlify.app
 
 <img width="300" height="100" alt="hjc-removebg-preview" src="https://github.com/user-attachments/assets/c0971196-53cc-45e0-8481-473f9b1e4bf8" />
 
